@@ -6,7 +6,7 @@ Currently I program for personal orders, if you have any questions, contact me.
 ## 🛠 I'm Java Developer
 
 I program in **Java - SpigotAPI, BungeeAPI, JavaCord, JavaFX.** and I'm learning **C#**<br>
-I'm currently working on the ISkyBlock minecraft plugin (December release).<br>
+I'm currently working on @JustPlugin.<br>
 
 ## 📩 Contact me:
 
