@@ -5,7 +5,7 @@ Currently I program for personal orders, if you have any questions, contact me.
 
 ## 🛠 I'm Java Developer
 
-I program in **Java - SpigotAPI, BungeeAPI, JavaCord, JavaFX.** and I'm learning **C#**<br>
+I program in **Java - SpigotAPI, BungeeAPI, JavaCord, JavaFX.** and I'm learning **JavaScript**<br>
 I'm currently working on [@JustPlugin](https://github.com/Just-Plugins).<br>
 
 ## 📩 Contact me:
