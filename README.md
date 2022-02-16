@@ -1,15 +1,21 @@
-# ✋ Hello, I'm Ditz
+# Waddup 👋
 
-I like programming, learning, trying new things.<br>
-Currently I program for personal orders, if you have any questions, contact me.
+Hey I am **Ditz** and I like programming, learning, trying new things.
+If you have any questions, contact me.
 
-## 🛠 I'm Java Developer
+### 📫 Contact me
 
-I program in **Java - SpigotAPI, BungeeAPI, JavaCord, JavaFX.** and I'm learning **JavaScript**<br>
-I'm currently working on [@JustPlugin](https://github.com/Just-Plugins).<br>
+-  [`D1TZ#0946`][`Discord`]
 
-## 📩 Contact me:
+---
 
-- Discord: D1TZ#0946
-- Website: http://ditz33.xyz/
-- Discord Server (JustPlugins): https://discord.gg/GEMQ2nzadK
+### 💻 Languages
+![Java](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&color=269dc7)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-6DA55F?style=for-the-badge&logo=dart&color=2cb6f7)
+
+---
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=TheD1TZ&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=222222&title_color=ffffff" alt="TheD1TZ" width="500px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TheD1TZ&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=222222">
