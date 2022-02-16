@@ -17,5 +17,5 @@ If you have any questions, contact me.
 
 ---
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=TheD1TZ&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=222222&title_color=ffffff" alt="TheD1TZ" width="500px"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=TheD1TZ&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=222221&title_color=ffffff" alt="TheD1TZ" width="500px"/>
 <img src="https://github-readme-stats.vercel.app/api?username=TheD1TZ&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=222222">
